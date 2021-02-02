@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T07:52:57.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="Hb4jQZu-Ftm3YLfx6hTj" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T08:07:51.011Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="isHTO9FbbaQye06Z22hJ" version="14.2.9" type="github">
   <diagram id="lYWe8Vf30Z5WRiwAP7xo" name="Page-1">
-    <mxGraphModel dx="505" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="505" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,7 +24,7 @@
           <mxGeometry width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7wdzdmj28vi7l-E2iD2z-9" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Tariffa oraria: 1€ l&#39;ora&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7wdzdmj28vi7l-E2iD2z-4">
-          <mxGeometry y="20" width="110" height="20" as="geometry" />
+          <mxGeometry x="-3.5" y="20" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7wdzdmj28vi7l-E2iD2z-10" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Distanza: 1km&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="7wdzdmj28vi7l-E2iD2z-4">
           <mxGeometry x="13.378606219557888" y="40" width="80" height="20" as="geometry" />
