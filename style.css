@@ -6,13 +6,20 @@ img {
   float:right;
   width: 150px;
   height: 50px;
-  ;
+  
   
 }
 .parking{
   font-weight: bold;
+  font-size: 18px;
 }
 .distance{
    margin-left: 20px;
    padding: 0px;
+}
+
+
+#station{
+  margin-top: 500px;
+  
 }
